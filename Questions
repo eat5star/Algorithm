@@ -1,0 +1,53 @@
+Here is the list of all the questions extracted from the PDF:
+
+1. *Single-Qubit Circuit Simulation*:  
+   Design and simulate a quantum circuit in Quantum Composer that applies the Hadamard gate followed by a Pauli-X gate on a single qubit. Display the output state in both the Bloch sphere and probability view.
+
+2. *Two-Qubit Entanglement*:  
+   Create a two-qubit quantum circuit that demonstrates entanglement using the Quantum Composer. Apply a Hadamard gate on the first qubit and a CNOT gate. Verify the output state.
+
+3. *Single-Qubit Gate Sequence*:  
+   Use Quantum Composer to implement a quantum circuit that applies a sequence of single-qubit gates (Pauli-X, Pauli-Y, and Pauli-Z) on a qubit. Measure the final state and explain the result.
+
+4. *Bell State Creation*:  
+   Construct a multiple-qubit circuit using Quantum Composer to simulate a Bell state. Verify the output by measuring the probabilities and visualizing the Bloch sphere representation of each qubit.
+
+5. *Implement the given quantum circuit fig 1 in Quantum Composer*, measure the output into classical bits, visualize the result using the Bloch sphere and probability view, and write the mathematical states at each stage along with the final output quantum states.
+
+6. *Implement the given quantum circuit fig 2 in Quantum Composer*, measure the output into classical bits, visualize the result using the Bloch sphere and probability view, and write the mathematical states at each stage along with the final output quantum states.
+
+7. *Implement the given quantum circuit fig 3 in Quantum Composer*, measure the output into classical bits, visualize the result using the Bloch sphere and probability view, and write the mathematical states at each stage along with the final output quantum states.
+
+8. *Implement the given quantum circuit fig 4 in Quantum Composer*, measure the output into classical bits, visualize the result using the Bloch sphere and probability view, and write the mathematical states at each stage along with the final output quantum states.
+
+9. *Implement the given quantum circuit fig 5 in Quantum Composer*, measure the output into classical bits, visualize the result using the Bloch sphere and probability view, and write the mathematical states at each stage along with the final output quantum states.
+
+10. *Implement the given quantum circuit fig 6 in Quantum Composer*, measure the output into classical bits, visualize the result using the Bloch sphere and probability view, and write the mathematical states at each stage along with the final output quantum states.
+
+11. *Implement the given quantum circuit fig 7 in Quantum Composer*, measure the output into classical bits, visualize the result using the Bloch sphere and probability view, and write the mathematical states at each stage along with the final output quantum states.
+
+12. *Implement the given quantum circuit in Qiskit*, write the code to run it on both the local simulator and IBM hardware, and display the measurement results using a histogram.
+
+13. *Implement the given quantum circuit in Qiskit*, write the code to run it on both the local simulator and IBM hardware, and display the measurement results using a histogram.
+
+14. *Implement the given quantum circuit in Qiskit*, write the code to run it on both the local simulator and IBM hardware, and display the measurement results using a histogram.
+
+15. *Implement the given quantum circuit in Qiskit*, write the code to run it on both the local simulator and IBM hardware, and display the measurement results using a histogram.
+
+16. *Implement the given quantum circuit in Qiskit*, write the code to run it on both the local simulator and IBM hardware, and display the measurement results using a histogram.
+
+17. *Implement the given quantum circuit in Qiskit*, write the code to run it on both the local simulator and IBM hardware, and display the measurement results using a histogram.
+
+18. *Implement the given quantum circuit in Qiskit*, write the code to run it on both the local simulator and IBM hardware, and display the measurement results using a histogram.
+
+19. *Use Qiskit to create a simple quantum circuit* with at least two qubits and apply different gates (e.g., Hadamard, Pauli-X, and CNOT). Simulate using different simulators and execute the circuit on IBM hardware.
+
+20. *Implement Shor's algorithm in Qiskit* to factor a given integer, run it on both the local simulator and IBM hardware, and display the results. Analyze the correctness of the factorization and interpret the output.
+
+21. *Implement Deutsch's algorithm in Qiskit* to evaluate a given quantum function, run it on both the local simulator and IBM hardware, and display the measurement results using a histogram. Explain how the algorithm determines whether the function is constant or balanced.
+
+22. *Implement Deutsch-Jozsa’s algorithm in Qiskit* to determine whether a given Boolean function is constant or balanced. Run the circuit on both the local simulator and IBM hardware, and display the measurement results using a histogram. Explain how the algorithm achieves this with a single query.
+
+23. *Simulate the BB84 Quantum Key Distribution (QKD) protocol using Qiskit*. Run the simulation on both the local simulator and IBM hardware, display the measurement results using a histogram, and explain how the protocol ensures secure key exchange.
+
+24. *Implement Grover’s algorithm in Qiskit* to perform an efficient search for a marked item in an unsorted database. Run the circuit on both the local simulator and IBM hardware, display the measurement results using a histogram, and explain how the algorithm amplifies the probability of the target state.
